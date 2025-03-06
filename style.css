@@ -20,7 +20,8 @@ h1 {
 
 input {
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid;
+    border-color: black;
     padding: 5px;
     text-align: left;
 }
