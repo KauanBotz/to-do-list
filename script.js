@@ -39,6 +39,9 @@ function adicionar() {
         salvarTarefas()
         CarregarLista()
     }   
+    else {
+        alert('Insira uma tarefa.')
+    }
 }
 
 function editar(indice){
