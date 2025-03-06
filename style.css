@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-top: 50px;
+
+}
+
+#subtitulo {
+    margin-bottom: 30px;
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: left;
+}
+
+#btn-adicionar {
+    border-radius: 5px;
+    color: green;
+    border: 1px solid green;
+    background-color: white;
+    padding: 5px 13px;
+    cursor: pointer;
+}
+
+#btn-adicionar:hover {
+    background-color: green;
+    color: white;
+    transition: 0.5s;
+}
+
+.item-tarefa {
+    margin: 5px 0;
+}
+
+.botao-editar {
+    color: blue;
+    border: 1px solid blue;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-left: 25px;
+}
+
+.botao-editar:hover {
+    background-color: blue;
+    color: white;
+    transition: 0.5s;
+}
+
+.botao-excluir {
+    color: red;
+    border: 1px solid red;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.botao-excluir:hover {
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+button {
+    background-color: white;
+}
