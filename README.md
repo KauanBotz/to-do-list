@@ -15,4 +15,3 @@ Projeto de uma lista de tarefas simples, desenvolvido com HTML, CSS e JavaScript
 - HTML
 - CSS
 - JavaScript
-- LocalStorage
